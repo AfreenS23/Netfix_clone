@@ -12,5 +12,5 @@ It’s a front-end project made to practice responsive layouts, hover effects, a
 
 
 ## 🧰 Tech Stack  
-- **HTML5** — Structure  
-- **CSS3** — Styling & layout  
+- **HTML** — Structure  
+- **CSS** — Styling & layout  
