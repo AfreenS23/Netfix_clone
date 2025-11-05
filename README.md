@@ -13,4 +13,8 @@ It’s a front-end project made to practice responsive layouts, hover effects, a
 
 ## 🧰 Tech Stack  
 - **HTML** — Structure  
-- **CSS** — Styling & layout  
+- **CSS** — Styling & layout
+
+- ## 🔗 Live Demo  
+[Click here to view the project(https://afreens23.github.io/Netfix_clone/
+)
