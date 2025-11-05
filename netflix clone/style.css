@@ -38,6 +38,7 @@ nav{
 }
 
 nav img{
+    color: red;
     width: 130px;
     /* this made that netflix logo to come up from that black bg image and become darker */
     position: relative;
@@ -109,7 +110,7 @@ nav button{
     font-weight: 400;
 }
 
-.btn-red-sn{
+.btn-red-sm{
     background-color: red;
     color: white;
 }
