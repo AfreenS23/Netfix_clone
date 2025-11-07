@@ -17,4 +17,4 @@ It’s a front-end project made to practice responsive layouts, hover effects, a
 
 - ## 🔗 Live Demo  
 [Click here to view the project(https://afreens23.github.io/Netfix_clone/
-)
+]
